@@ -1,0 +1,18 @@
+
+/*Las clases son mas primordiales que las etiquetas normales*/
+.Fuerte {
+    color: greenyellow;
+}
+
+/*Las etiquetas son las menos primordiales*/
+h1 {
+    color: aqua !important; 
+}
+
+#UltraFuerte {
+    color: blueviolet;
+}
+
+p {
+    color: red;
+}
